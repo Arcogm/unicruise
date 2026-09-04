@@ -97,3 +97,12 @@ UniCruise is primarily a **markup-based web prototype**. Its purpose is to demon
 * Audit log concept
 
 The website serves as a visual and functional representation of the proposed UniCruise platform rather than a fully deployed recommendation or analytics system.
+<img width="1744" height="919" alt="image" src="https://github.com/user-attachments/assets/dfbf81f7-abef-40b2-be42-c3aef9a737c3" />
+
+<img width="1730" height="914" alt="image" src="https://github.com/user-attachments/assets/7687e19f-2e39-4453-a740-faa8c3a434ae" />
+
+<img width="1731" height="918" alt="image" src="https://github.com/user-attachments/assets/e2ffa470-db9b-4a0a-aafb-26b48b362de0" />
+
+<img width="1730" height="911" alt="image" src="https://github.com/user-attachments/assets/7073a257-43b4-4f6f-9b13-ac8aeab6406a" />
+
+<img width="1730" height="915" alt="image" src="https://github.com/user-attachments/assets/0e4b5a70-671c-4b55-ab7b-ac5e2b3acdb1" />
